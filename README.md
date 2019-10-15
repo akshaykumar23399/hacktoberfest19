@@ -86,6 +86,7 @@ https://github.com/your-username/hacktoberfest19.git
 note :: organise community hacktober participation
 
 ## Happy?? Star ⭐ this Repo. 🤩
+fork to complete hacktober fest challenges.
 
 ## Check your Hacktoberfest Contribution status at:
 <a href="https://hacktoberfest.digitalocean.com/profile" target="blank">https://hacktoberfest.digitalocean.com/profile</a>
